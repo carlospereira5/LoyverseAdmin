@@ -3,7 +3,7 @@ module LoyverseAdmin
 go 1.26.1
 
 require (
-	github.com/carlospereira5/loyverse v0.0.0-20260419182845-ebae7004dcfc
+	github.com/carlospereira5/loyverse v0.0.0-20260422143856-e67a54379e2f
 	github.com/charmbracelet/bubbles v1.0.0
 	github.com/charmbracelet/bubbletea v1.3.10
 	github.com/charmbracelet/lipgloss v1.1.0
